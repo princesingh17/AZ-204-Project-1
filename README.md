@@ -30,10 +30,10 @@ for every incoming HTTP request.
 Azure Function Overview
 <img width="681" height="455" alt="image" src="./screenshots/Image1.png" />
 
-Code Editor in Azure
+Code Added in Azure
 <img width="681" height="455" alt="image" src="./screenshots/Image2.png" />
 
-Function Test Result (Response: Hello, Azure!)
+Function Test Result (Response: Hello, Prince)
 <img width="681" height="455" alt="image" src="./screenshots/Image3.png" />
 
 <img width="681" height="455" alt="image" src="./screenshots/Image4.png" />
