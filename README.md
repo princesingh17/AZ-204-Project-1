@@ -28,13 +28,15 @@ for every incoming HTTP request.
 
   📸 Screenshots
 Azure Function Overview
-<img src="./screenshots/function-overview.png" width="800" />
+<img width="681" height="455" alt="image" src="./screenshots/Image1.png" />
 
 Code Editor in Azure
-<img src="./screenshots/code-editor.png" width="800" />
+<img width="681" height="455" alt="image" src="./screenshots/Image2.png" />
 
 Function Test Result (Response: Hello, Azure!)
-<img src="./screenshots/test-result.png" width="800" />
+<img width="681" height="455" alt="image" src="./screenshots/Image3.png" />
+
+<img width="681" height="455" alt="image" src="./screenshots/Image4.png" />
 
 ✅ Outcome
 Successfully deployed an Azure Function using Python.
